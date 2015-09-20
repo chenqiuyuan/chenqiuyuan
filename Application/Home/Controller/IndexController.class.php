@@ -3,7 +3,6 @@ namespace Home\Controller;
 use Think\Controller;
 class IndexController extends Controller {
     public function index(){
-    	$this->show("chenqiuyuan");
 		$this->display();        
     }
     public function hello($name='lalalaphp'){        
