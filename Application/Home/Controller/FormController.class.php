@@ -55,4 +55,11 @@ class FormController extends Controller{
         $data['content'] = 'ThinkPHP3.2.3版本发布'; 
         $Form->save($data);// 根据条件保存修改的数据
     }
+
+    public function hello($name='lalalaphp'){        
+        $this->assign('name',$name);
+        $APP_PATH=I('$APP_PATH');
+        $this->assign('APP_PATH',$APP_PATH);       
+        $this->display();    
+    }
 }

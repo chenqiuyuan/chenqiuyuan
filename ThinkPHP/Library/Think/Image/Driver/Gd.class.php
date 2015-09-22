@@ -39,7 +39,7 @@ class Gd{
      */
     public function open($imgname){
         //检测图像文件
-        if(!is_file($imgname)) E('不存在的图像文件');
+        if(!is_file($imgname)) E('不存在的图像文件:' . $imgname);
 
         //获取图像信息
         $info = getimagesize($imgname);
