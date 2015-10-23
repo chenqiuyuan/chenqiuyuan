@@ -4,6 +4,9 @@
 	<title></title>
 </head>
 <body>
-验证
+	<form action="/chenqiuyuan/index.php/Home/Admin/insert" method="post">
+	BOOM!<input type="text" value="" name="username"><br/>
+	LA~LA~LA~LA~<input type="password"  name="userpwd"><br/>
+	<input type="submit" value="HULA"><br/>
 </body>
 </html>

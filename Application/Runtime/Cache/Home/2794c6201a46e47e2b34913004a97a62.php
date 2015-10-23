@@ -9,7 +9,7 @@
     </style>
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="./favicon.ico">
+    <link rel="shortcut icon" type="image/x-ico" src="/chenqiuyuan/Public/icon/favicon.ico" />
 
     <title>陈秋远</title>
 
@@ -31,7 +31,7 @@
 	<div class="header clearfix">
   <nav>
     <ul class="nav nav-pills pull-right">
-      <li role="presentation" class="active"><a href="Home@Index:index">主页</a></li>
+      <li role="presentation" class="active"><a href="/chenqiuyuan/index.php/">主页</a></li>
       <li role="presentation"><a href="#">关于</a></li>
       <li role="presentation"><a href="#">联系我</a></li>
     </ul>

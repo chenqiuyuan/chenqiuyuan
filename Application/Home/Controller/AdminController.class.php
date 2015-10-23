@@ -7,7 +7,9 @@
 			$this->display('Admin:verify');
 		}
 
-		public function verify(){
+		
 
+		public function verify(){
+			echo '验证函数';
 		}
 	}

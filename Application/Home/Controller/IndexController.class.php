@@ -8,6 +8,8 @@ class IndexController extends Controller {
 
     public function _initialize(){
         // echo '这是一个初始化_initialize';
+        echo CONTROLLER_NAME;
+        
     }
 
     public function head(){
