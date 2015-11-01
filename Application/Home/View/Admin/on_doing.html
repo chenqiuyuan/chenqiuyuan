@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<include file='Public:header' />
+<body>
+<div class="container">
+	<include file='Public:head' />
+	<!-- 头部 -->
+	<div class="jumbotron">
+		
+	<a class="btn btn-primary" href="__URL__\on_doing_read">刷新</a>
+		<table id="table">
+			<tr>
+			  <th>title</th>
+			  <th>content</th>
+			  <th>author</th>
+			  <th>edition</th>
+			  <th>delete</th>
+			</tr>
+			<volist name="data" id="vo" mod="2">
+				<eq name="mod" value="1">
+					<tr>
+					    <td><a href="">{$vo.title}</a></td>
+					    <td>{$vo.content}</td>
+					    <td>{$vo.author}</td>
+					    <td><a href={:U('Admin:on_doing_edit',array('title'=>$vo['title']))}>修改</a></td>
+					    <td><a href={:U('Admin:on_doing_delete',array('title'=>$vo['title']))}>删除</a></td>
+					</tr>
+				</eq>
+				<eq name="mod" value="0">
+					<tr class="alt">
+					    <td><a href="">{$vo.title}</a></td>
+					    <td>{$vo.content}</td>
+					    <td>{$vo.author}</td>
+					    <td><a href={:U('Admin:on_doing_edit',array('title'=>$vo['title']))}>修改</a></td>
+					    <td><a href={:U('Admin:on_doing_delete',array('title'=>$vo['title']))}>删除</a></td>
+					</tr>
+				</eq>
+			</volist>
+		</table>
+		<br/>
+		<a class="btn btn-success btn-block btn-large" href="__URL__\on_doing_insert_interface" type="button">新增</a>
+
+	</div>
+</div>
+
+
+	<include file='Public:tail' />
+	<!-- 脚标 -->
+</body>
+</html>

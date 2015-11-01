@@ -11,6 +11,14 @@ class SubtitleController extends Controller{
 	}
 
 	public function on_doing(){
+			$On_doing = M('On_doing');
+			// $data = $On_doing->find('2');
+			$data = $On_doing->select();
+			if($data){
+				$this->assign('data', $data);
+			}else{
+				$this->error("读取失败");
+			}
 		$this->display('Subtitle:on_doing');
 	}
 
@@ -24,5 +32,8 @@ class SubtitleController extends Controller{
 
 	public function LBS_running(){
 		$this->display('Subtitle:LBS_running');
+
 	}
+
+	
 }

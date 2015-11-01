@@ -2,6 +2,13 @@
 namespace Home\Controller;
 use Think\Controller;
 class FormController extends Controller{
+
+    //Form控制器来控制所有基本的增删查改，如果有特殊的需求则继承这里的类
+    public function create(){
+            // 定义自动验证
+               echo "create";
+    }
+
     public function insert() {
         $Form = D('Form');
         if ($Form->create()) {
@@ -15,6 +22,12 @@ class FormController extends Controller{
             $this->error($Form->getError());
         }
     }
+
+    public function delete(){
+        echo '删除数据';
+    }
+
+
     public function read($id = 0) {
         $Form = M('Form');
         // 读取数据
