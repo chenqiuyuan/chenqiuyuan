@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<include file='Public:header' />
+<body>
+    <div class="container">
+		<include file='Public:head' />
+		<!-- 头部 -->
+		<div class="jumbotron">
+			<h3>
+				正在做的事
+			</h3>
+			<table id="table">
+				<tr>
+				  <th>title</th>
+				  <th>content</th>
+				  <th>author</th>
+				</tr>
+				<volist name="data" id="vo" mod="2">
+					<eq name="mod" value="1">
+						<tr class="alt">
+						    <td>{$vo.title}</td>
+						    <td>{$vo.content}</td>
+						    <td>{$vo.author}</td>
+						</tr>
+					</eq>
+					<eq name="mod" value="0">
+						<tr>
+						    <td>{$vo.title}</td>
+						    <td>{$vo.content}</td>
+						    <td>{$vo.author}</td>
+						</tr>
+					</eq>
+				</volist>
+			</table>
+		</div>
+	</div>
+	<include file='Public:tail' />
+	<!-- 脚标 -->
+	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
