@@ -9,7 +9,7 @@
     <style>
     </style>
     <!-- "陈"字标签 -->
-    <link rel="shortcut icon" type="image/x-ico" src="/chenqiuyuan/Public/icon/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-ico" src="/php/chenqiuyuan/HOME_PAGE/Public/icon/favicon.ico" />
 
     <title>陈秋远</title>
 
@@ -19,7 +19,7 @@
     <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 
     <!-- 表格(table)的CSS -->
-    <link rel="stylesheet" type="text/css" href="/chenqiuyuan/Public/CSS/table.css" />
+    <link rel="stylesheet" type="text/css" href="/php/chenqiuyuan/HOME_PAGE/Public/CSS/table.css" />
     <meta charset="utf-8">
     <title>登陆</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,9 +28,9 @@
 
     <!-- CSS -->
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=PT+Sans:400,700'>
-    <link rel="stylesheet" href="/chenqiuyuan/Public/login/assets/css/reset.css">
-    <link rel="stylesheet" href="/chenqiuyuan/Public/login/assets/css/supersized.css">
-    <link rel="stylesheet" href="/chenqiuyuan/Public/login/assets/css/style.css">
+    <link rel="stylesheet" href="/php/chenqiuyuan/HOME_PAGE/Public/login/assets/css/reset.css">
+    <link rel="stylesheet" href="/php/chenqiuyuan/HOME_PAGE/Public/login/assets/css/supersized.css">
+    <link rel="stylesheet" href="/php/chenqiuyuan/HOME_PAGE/Public/login/assets/css/style.css">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -44,7 +44,7 @@
 
         <div class="page-container">
             <h1 style="color:indigo">Login</h1>
-            <form action="/chenqiuyuan/index.php/Home/Admin/login" method="post">
+            <form action="/php/chenqiuyuan/HOME_PAGE/index.php/Home/Admin/login" method="post">
                 <input type="text" name="username" class="username" placeholder="Username">
                 <input type="password" name="password" class="password" placeholder="Password">
                 <button type="submit">SIGNIN</button>

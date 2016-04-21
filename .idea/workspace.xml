@@ -2,53 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72fde94c-7a5c-4fe9-bb45-a5049fc996e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/ThinkPHP/Library/Think/Verify/zhttfs/1.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/image/头像.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/image/微信二维码.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/image/支付宝二维码.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/Controller/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/Model/ReadModel.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/Model/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/View/Admin/Admin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/View/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/1f5e5996c04855f437895794ed1f7c86.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/20914c0f075f91df3579ffbdf5180b02.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/413acc1fce7064ac1fdba65527e42cd8.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/5f1ee435d3f602d14be94a416f733bd3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/6f075cc86a5bc7db483610f123656cfa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/700edb50f48fd2a628c0212c78458d64.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/78c4ebe962db995d2a385b9e45c54e48.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/7ed29f9b222d1e01c7cb89d4239828ab.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/a8c5e6dfab41b4f43cce5aea2b26eec4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/b39761fdd01eadcd4b8a82f371520558.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/d86ffc4c1353d30d0cfbfd2c48e280b4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/e7ceb83f9921d41f05da5186eb0f22bc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/ec2e885a5acf981059dd2addb45fca01.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Home/15_03_26.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Public/View/head/head.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/sae_app_wizard.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Home/16_04_13.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOME_PAGE/Public/login/assets/img/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOME_PAGE/Public/login/assets/img/backgrounds/Thumbs.db" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Home/Conf/config.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/Conf/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/2794c6201a46e47e2b34913004a97a62.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/2794c6201a46e47e2b34913004a97a62.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/a5aa396c7f070ed87d7e2bfef616140c.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/a5aa396c7f070ed87d7e2bfef616140c.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/c506a66e5fd5c20a850e05056283aa1e.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/c506a66e5fd5c20a850e05056283aa1e.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/f6ac2f585496b3e49580c221515dcd93.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/f6ac2f585496b3e49580c221515dcd93.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Common/15_11_01.log" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Common/15_11_01.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Home/15_11_01.log" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Home/15_11_01.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Public/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/HOME_PAGE/Public/bootstrap/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Home/View/index/index.html" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/View/Index/index.html" />
     </list>
     <ignored path="chenqiuyuan.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +27,20 @@
   <component name="FavoritesManager">
     <favorites_list name="chenqiuyuan" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HOME_PAGE/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -75,12 +52,12 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1072" />
-    <option name="y" value="373" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -92,9 +69,123 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenqiuyuan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenqiuyuan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenqiuyuan" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenqiuyuan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chenqiuyuan" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HOME_PAGE" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../bin/php/php5.4.16/php.exe" />
+    <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;Database.Settings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php (3)">
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/chenqiuyuan/HOME_PAGE/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/HOME_PAGE/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/chenqiuyuan/HOME_PAGE/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/php/chenqiuyuan/HOME_PAGE/index.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.php (2)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.php (3)" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php (3)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php (2)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.php (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -111,33 +202,36 @@
       <updated>1460337728673</updated>
       <workItem from="1460625206508" duration="444000" />
       <workItem from="1460625673311" duration="14000" />
+      <workItem from="1461162828626" duration="895000" />
+      <workItem from="1461163956754" duration="271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="458000" />
+    <option name="totallyTimeSpent" value="1624000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1072" y="373" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -154,5 +248,23 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HOME_PAGE/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HOME_PAGE/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
