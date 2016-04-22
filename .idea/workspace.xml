@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72fde94c-7a5c-4fe9-bb45-a5049fc996e2" name="Default" comment="" />
+    <list default="true" id="72fde94c-7a5c-4fe9-bb45-a5049fc996e2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/ThinkPHP/Library/Think/Verify/zhttfs/1.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/image/头像.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/image/微信二维码.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/image/支付宝二维码.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/Controller/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/Model/ReadModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/Model/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/View/Admin/Admin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/View/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/1f5e5996c04855f437895794ed1f7c86.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/20914c0f075f91df3579ffbdf5180b02.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/413acc1fce7064ac1fdba65527e42cd8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/5f1ee435d3f602d14be94a416f733bd3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/6f075cc86a5bc7db483610f123656cfa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/700edb50f48fd2a628c0212c78458d64.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/78c4ebe962db995d2a385b9e45c54e48.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/7ed29f9b222d1e01c7cb89d4239828ab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/a8c5e6dfab41b4f43cce5aea2b26eec4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/b39761fdd01eadcd4b8a82f371520558.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/d86ffc4c1353d30d0cfbfd2c48e280b4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/e7ceb83f9921d41f05da5186eb0f22bc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/ec2e885a5acf981059dd2addb45fca01.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Home/15_03_26.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/Public/View/head/head.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOME_PAGE/sae_app_wizard.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Home/16_04_13.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOME_PAGE/Public/login/assets/img/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOME_PAGE/Public/login/assets/img/backgrounds/Thumbs.db" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Home/Conf/config.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/Conf/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/a5aa396c7f070ed87d7e2bfef616140c.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/a5aa396c7f070ed87d7e2bfef616140c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/c506a66e5fd5c20a850e05056283aa1e.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/c506a66e5fd5c20a850e05056283aa1e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/f6ac2f585496b3e49580c221515dcd93.php" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Cache/Home/f6ac2f585496b3e49580c221515dcd93.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Common/15_11_01.log" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Common/15_11_01.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Home/15_11_01.log" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Runtime/Logs/Home/15_11_01.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HOME_PAGE/Public/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/HOME_PAGE/Public/bootstrap/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HOME_PAGE/Application/Home/View/index/index.html" afterPath="$PROJECT_DIR$/HOME_PAGE/Application/Home/View/Index/index.html" />
+    </list>
     <ignored path="chenqiuyuan.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,20 +63,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="chenqiuyuan" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/home_zh/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,12 +111,11 @@
       <updated>1460337728673</updated>
       <workItem from="1460625206508" duration="444000" />
       <workItem from="1460625673311" duration="14000" />
-      <workItem from="1461305824815" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="470000" />
+    <option name="totallyTimeSpent" value="458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1072" y="373" width="1936" height="1056" extended-state="6" />
@@ -124,15 +154,5 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/home_zh/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
