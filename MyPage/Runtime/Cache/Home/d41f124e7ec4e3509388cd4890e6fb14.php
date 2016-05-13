@@ -127,13 +127,11 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 object-non-visible" data-animation-effect="fadeIn">
-							<h1 class="text-center">不小心 <span>二十年</span></h1>
-							<p class="lead text-center">“<span style="font-size:35px;">啊</span>喂，醒醒，醒醒。”
-								早上偷偷打瞌睡的我被兔子叫醒了。<br/>
-								“今天给你带了一块蛋糕。”
-								“啊，谢谢，从森林到这里要走很久吧。”<br/>
-								“其实也没有很久吧，一块苜蓿草田，一块薰衣草田，一条小溪......嗯，黑熊还往上涂了点蜂蜜，狐狸送了我一颗樱桃。喂，先把蛋糕拿下来吃掉啊，顶在头上很累的。”兔子朝我抱怨。<br/>
-								就这样，今天早上，我吃到了人生中味道最复杂但也最好吃的一块蛋糕。</p>
+							<h1 class="text-center">断章 <span>廿一年</span></h1>
+							<p class="lead text-center"><span style="font-size:35px;">你</span>在桥上看风景
+								<br/>看风景的人在楼上看你
+								<br/>明月装饰了你的窗子
+								<br/>你装饰了别人的梦<br/>
 						</div>
 					</div>
 				</div>
