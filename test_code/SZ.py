@@ -21,6 +21,7 @@ for i in range(11):
     line = line + "\n"
     f.write(line.encode("gbk"))
     line = ''
+#qliu.net@gmail.com
 
 
 f.close()
